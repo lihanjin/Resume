@@ -24,6 +24,7 @@ html, body
     color: #fff;
     background: #303538 no-repeat center center;
     background-size: cover;
+    display:none;
 }
 
 .site-head h1
